@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:developers.facebook.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:creativewritingwizard.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(uv sync)",
+      "Bash(where uv)",
+      "Bash(where.exe uv)"
+    ]
+  }
+}
